@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Bob Loblaw's Law Blog"
+title: ""
 description: > # this means to ignore newlines until "email:"
    A Jekyll theme - Medium inspired
 
@@ -19,7 +19,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://arigonzo.github.io/" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
