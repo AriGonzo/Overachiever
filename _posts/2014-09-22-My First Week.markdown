@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "My First Week"
+categories: jekyll update
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+---
+
 ### My First Week
 
 The Iron Yard has been quite the experience thus far. Ive met a lot of like-minded, motivated, and smart people who have all made the decision to change their lives and follow their passion in the tech industry.
