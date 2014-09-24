@@ -2,7 +2,7 @@
 layout: post
 title:  "My First Week"
 categories: jekyll update
-image: /assets/article_images/2014-09-22-My-First-Week/desktop.jpg
+image: /assets/article_images/2014-09-22-my-first-post/desktop.jpg
 ---
 
 ### My First Week
